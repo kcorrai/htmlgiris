@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teknolojinin zararları</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkn86PVs8ikZcEzTmFyFDas7NrwTPy7X_SQ&usqp=CAU" alt="Image1" width="632" height="320"><br>
+    <br>
+    <h1>Teknoloji bağımlılığı</h1>
+    <p>Teknoloji ve internetin bilinçli olmayan, kontrolsüz bir şekilde kullanımına bağlı olarak ortaya çıkan davranışsal bağımlılıklardır.</p><br>
+    <h3>Teknolojinin zararları nelerdir?</h3>
+    <ul>
+        <li>Çevreya zarar veren gazlar, atıklar çoğalmıştır.</li>
+        <li>Küresel ısınmayı arttırarak doğanın dengesine zarar verebilir. İşsizlik artmıştır.</li>
+        <li>İnsanlar mevcut kültürel değerlerini kaybetmeye başlamıştır.</li>
+        <li>Televizyon ve internet aile içi iletişimi koparmış ve insanları yalnızlığa sürüklemiştir.</li>
+        <li>İnsanları tembelliğe alıştırabilmektedir.</li>
+    </ul>
+
+    <h3>Peki bu zararları nasıl önleyebilirim?</h3>
+    <ol type="1">
+        <li>Teknoloji kullanımını tam zıt saatlere kaydırmak</li>
+        <li>Dış durdurucular kullanmak.</li>
+        <li>Teknoloji kullanımıyla ilgili hedefler belirlemek.</li>
+        <li>Çok kullanılan belli işlevlerden uzak durmak.</li>
+    </ol>
+    <br>
+    <h1><em>Aşağıdan videoyu izlerseniz bilgiler daha pekiştirici olur.</em></h1>
+    <br><br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/SvEZfqzSO1w?si=nZMRIumEezamI0q7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+</body>
+</html>
